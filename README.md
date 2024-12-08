@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @myavuz92
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me?
+- 🌱 I’m currently developing with Unreal
+- 💞️ I’m looking to collaborate on cool game ideas
 
 <!---
 myavuz92/myavuz92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
